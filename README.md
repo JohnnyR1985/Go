@@ -25,6 +25,7 @@ https://github.com/astaxie/go-best-practice
 
 # 参考文章
 
+- [入门 Golang](https://jysperm.me/tag/golang/)
 - [系统学习GO，推荐几本靠谱的书?](https://www.zhihu.com/question/30461290)
 - [Go语言资料收集](https://github.com/wonderfo/wonderfogo/wiki)
 - [为什么要使用 Go 语言？Go 语言的优势在哪里？](https://www.zhihu.com/question/21409296)
