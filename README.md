@@ -11,7 +11,7 @@
 https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/01.4.md
 
 # Go Web编程
-http://www.infoq.com/cn/articles/go-web-programming-interview#
+[采访：关于Go语言和《Go Web编程》](http://www.infoq.com/cn/articles/go-web-programming-interview#)
 [go web编程学后感想](https://book.douban.com/review/8202224/)
 # 官方文档,需要翻墙
 
