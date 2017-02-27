@@ -23,6 +23,8 @@ https://gobyexample.com/
 # 学习任何一门语言推荐的练习项目
 https://github.com/astaxie/go-best-practice
 
+# Go语言中需要注意的点
+- slice动态扩展:https://www.zhihu.com/question/47527916
 # 参考文章
 
 - [入门 Golang](https://jysperm.me/tag/golang/)
