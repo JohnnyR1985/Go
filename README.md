@@ -17,9 +17,6 @@ https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/01.4
 
 https://golang.org/doc/
 
-# go的小例子
-
-https://gobyexample.com/
 # 学习任何一门语言推荐的练习项目
 https://github.com/astaxie/go-best-practice
 
