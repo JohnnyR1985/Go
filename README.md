@@ -27,6 +27,7 @@ https://github.com/astaxie/go-best-practice
 - slice动态扩展:https://www.zhihu.com/question/47527916
 # 参考文章
 
+- [GO 语言简介（上）— 语法](http://coolshell.cn/articles/8460.html) + [GO 语言简介（下）— 特性](http://coolshell.cn/articles/8489.html)
 - [入门 Golang](https://jysperm.me/tag/golang/)
 - [系统学习GO，推荐几本靠谱的书?](https://www.zhihu.com/question/30461290)
 - [Go语言资料收集](https://github.com/wonderfo/wonderfogo/wiki)
