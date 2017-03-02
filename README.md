@@ -6,9 +6,10 @@
 
 
 
-# 编辑器选择
+# build-web-application-with-golang
 
-https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/01.4.md
+https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/01.0.md
+
 
 # Go Web编程
 [采访：关于Go语言和《Go Web编程》](http://www.infoq.com/cn/articles/go-web-programming-interview#)
