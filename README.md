@@ -8,7 +8,7 @@
 
 # build-web-application-with-golang
 
-https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/03.1.md
+https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/03.2.md
 
 
 # Go Web编程
