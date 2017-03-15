@@ -8,7 +8,7 @@
 
 # build-web-application-with-golang
 
-https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/12.4.md
+https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/13.2.md
 
 https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/02.6.md
 > 接口需要多加理解
