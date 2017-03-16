@@ -8,8 +8,8 @@
 
 # build-web-application-with-golang
 
-https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/13.2.md
-
+https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/13.5.md
+> 作者的举一反三能力很强，自定义出一套beego框架出来（自定义路由器，日志，配置文件等等）
 https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/02.6.md
 > 接口需要多加理解
 
