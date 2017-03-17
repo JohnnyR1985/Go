@@ -8,11 +8,12 @@
 
 # build-web-application-with-golang
 
-https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/13.5.md
+https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/14.5.md
 > 作者的举一反三能力很强，自定义出一套beego框架出来（自定义路由器，日志，配置文件等等）
 https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/02.6.md
 > 接口需要多加理解
-
+[Go中的下划线](http://studygolang.com/wr?u=http%3a%2f%2fblog.csdn.net%2fwanglei9876%2farticle%2fdetails%2f50475864)
+> 关于下划线`_`的理解
 # Go Web编程
 [采访：关于Go语言和《Go Web编程》](http://www.infoq.com/cn/articles/go-web-programming-interview#)
 [go web编程学后感想](https://book.douban.com/review/8202224/)
