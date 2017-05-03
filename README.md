@@ -25,6 +25,7 @@ https://github.com/astaxie/go-best-practice
 
 # Go语言中需要注意的点
 - slice动态扩展:https://www.zhihu.com/question/47527916
+- [Go 的下划线的含义](http://www.golangtc.com/t/54af2fa6421aa9396a000208)
 # 参考文章
 
 - [GO 语言简介（上）— 语法](http://coolshell.cn/articles/8460.html) + [GO 语言简介（下）— 特性](http://coolshell.cn/articles/8489.html)
