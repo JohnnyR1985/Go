@@ -45,4 +45,3 @@ https://github.com/astaxie/go-best-practice
 - [go并发编程实战]()
 - [go语言实战，go in action]():  讲的比较的粗略， 关注点不在语法上面， 有一些深入的地方，比如切片，数组，映射的内部讲解
 
-# 学习任何一门语言推荐的练习项
