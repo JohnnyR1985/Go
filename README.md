@@ -26,6 +26,7 @@ https://github.com/astaxie/go-best-practice
 # Go语言中需要注意的点
 - slice动态扩展:https://www.zhihu.com/question/47527916
 - [Go 的下划线的含义](http://www.golangtc.com/t/54af2fa6421aa9396a000208)
+- [Go Channel详解](http://colobu.com/2016/04/14/Golang-Channels/?utm_source=tuicool&utm_medium=referral)
 # 参考文章
 
 - [GO 语言简介（上）— 语法](http://coolshell.cn/articles/8460.html) + [GO 语言简介（下）— 特性](http://coolshell.cn/articles/8489.html)
@@ -36,3 +37,12 @@ https://github.com/astaxie/go-best-practice
 - [七牛首席布道师：Go不是在颠覆，就是在逆袭](http://www.csdn.net/article/2014-07-21/2820743)
 - [读书笔记：对线程模型的批评](http://coolshell.cn/articles/4626.html)
 - [Actor模型和CSP模型的区别](http://www.jdon.com/concurrent/actor-csp.html)
+
+# 书籍📚
+
+- [go学习笔记](https://github.com/qyuhen/book)： 说的语法很详细，在项目中很容易用到
+- [go语言编程](http://www.jb51.net/books/421556.html)：
+- [go并发编程实战]()
+- [go语言实战，go in action]():  讲的比较的粗略， 关注点不在语法上面， 有一些深入的地方，比如切片，数组，映射的内部讲解
+
+# 学习任何一门语言推荐的练习项
